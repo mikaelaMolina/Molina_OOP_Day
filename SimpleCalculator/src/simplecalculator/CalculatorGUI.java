@@ -54,6 +54,8 @@ public class CalculatorGUI {
     panel.setBounds(0,0,380,500);
 
     textFld.setBounds(7,5,350,90);
+    
+    frame.setLayout(null);
 
     
     //button setbounds for 1st row
